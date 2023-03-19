@@ -1,7 +1,7 @@
 # Pencatatan Keuangan Harian
 Aplikasi pencatatan keuangan harian ini memiliki tampilan yang sederhana dan fitur yang mampu berfungsi dengan baik.
 
-To access. Example http://localhost/keuangan
+To access. Example http://sibeux.my.id/web-keuangan-app/catatankas
 
 ## Tampilan Aplikasi
 ![ss](img/ss1.png)
